@@ -1,0 +1,16 @@
+AgroFlow:
+
+Problema: hoje o setor de hortifrutigranjeiro consiste em movimentar grandes volumes de carregamento, se tratando de um modelo de negocio que ganha por voluma, ja que a margem de lucro e mais baixo, sendo assim, frequentemente vemos empresários do nicho se colocando em situação que requerem alta gestão logística, e onde pequenos erros de processos causam grandes gargalos, com dezenas de fornecedores com diversos produtos e preços diferentes, um setor de estoque volátil onde o gestor precisa considerar as mercadorias que vao ser recolhidas e as que já estão em estoque de forma cautelosa ja que estamos trantando te material altamente perecível, tal como um setor de venda menos globalizado, com rastreios e comunicações limitadas.
+
+Então o Agroflow vem tratar isso como um saas que divide esse fluxo em quatro etapas:
+
+Coleta: Aqui organizamos todas as buscas e pedidos com fornecedores, onde os preços são relativos pode fornecedor ja que vao depender da qualidade e preço negociado, e podem ser negociadas até dias depois da venda do produto, tal como diferentes tipos e quantidades entregues por fornecedor, e onde existe um pedido que pode ou não ter sido atendido pelo fornecedor dependendo do status da agricultura do lugar. Tal como Essa etapa e visualizados também buscar trazer uma visão mais clara e visual para o gestor de quais produtos ele contem em estoque e em qual estado estão para que se podem ser feitas decisões de logística e venda com mais clareza.
+
+Vendas: Essa seção busca trazer eficiência e escalabilidade no processo de vendas da mercadoria, tendo em vista que o cliente vai ter mais autonomia e transparência no pedido, com o bot de ia e a plataforma de visualização e montagem do pedido, também permite que o vendedor possa visualizar o pedido com clareza e ja elaborar estratégias antes mesmo de entrar em contato com o cliente, sabendo das suas necessidades.
+
+Carga: Além montagem de pedidos e vendas, a parte real e logística de carregar uma carga de material perecível também exige atenção, então é necessário nos atentar a isso e fazer com que nosso sistema possa se assegurar de quantidades corretas, de possíveis problemas na logística de montar uma carga e de bonus, acompanhando esse processo podemos dar mais informações ao cliente criando um processo ainda mais transparente.
+
+Roterização: Essa etapa é algo bônus, porque contem pouca complexidade, fácil de ser elaborado e pode conter grande valor de entrega para muitos clientes em potencial, aqui roteirizamos o processo de entrega da carga e podemos acompanhar os status da mercadoria, implementando mecanismos de rastreamento e segurança.
+
+
+
